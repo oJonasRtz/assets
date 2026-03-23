@@ -14,9 +14,11 @@ All assets in this repository are free for personal use.
 
 ## IRC
 
-[Open folder](gifs/irc/)
+[Open folder](gifs/irc/) | [Open gif](gifs/irc/irc_demo.gif)
 
-No gif available yet.
+<a href="gifs/irc/">
+	<img src="gifs/irc/irc_demo.gif" alt="IRC project demo" width="320" />
+</a>
 
 ## Minishell
 
